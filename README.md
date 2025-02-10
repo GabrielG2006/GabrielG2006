@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Guedes 
 - 👀 I’m interested in learn database
-- 🌱 I’m currently learning database 
+- 🌱 I’m currently learning Python code  
 - 💞️ I’m looking to collaborate on Dio
 - 😄 Pronouns: he/him and she/her. "use the pronoun you feel most comfortable" :)
 - ⚡ Fun fact: I like so much eat strogonoff
